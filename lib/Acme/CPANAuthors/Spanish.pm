@@ -3,17 +3,19 @@ package Acme::CPANAuthors::Spanish;
 use warnings;
 use strict;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use Acme::CPANAuthors::Register ( CASIANO   => 'Casiano Rodríguez-León',
+                                  DIEGOK    => 'Diego Kuperman',
                                   ENELL     => 'Enrique Nell',
                                   EXPLORER  => 'Joaquín Ferrero',
                                   FXN       => 'Xavier Noria',
                                   JMERELO   => 'J. J. Merelo-Guervós',
                                   NES       => 'Enrique F. Castañón',
                                   NITO      => 'Nito Martínez',
-                                  SALVA     => 'Salvador Fandiño',
+                                  PECO      => 'Juan José San Martín',
                                   RODRIGO   => 'Rodrigo de Oliveira González',
+                                  SALVA     => 'Salvador Fandiño',
                                 );
 
 __END__
