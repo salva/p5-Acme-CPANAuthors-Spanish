@@ -82,7 +82,7 @@ L<http://search.cpan.org/dist/Acme-CPANAuthors-Spanish/>
 
 =item * Github - get the source code
 
-L<http://github.com/salva/p5-Acme-CPANAuthors-Spanish.git/>
+L<http://github.com/salva/p5-Acme-CPANAuthors-Spanish>
 
 =back
 
