@@ -1,8 +1,5 @@
-Revision history for Acme-CPANAuthors-Portuguese
+Revision history for Acme-CPANAuthors-Spanish
 
-0.01    April 16/22:16 (BRACETA)
-        First version, released on an unsuspecting world.
-0.02    April 17/14:47 (BRACETA)
-		Fixed some documentation problems. 
-0.03    April 27/00:08 (BRACETA)
-		Added PREREQ_PM to Makefile.PL
+0.01  Oct 18, 2011
+      - first version released
+

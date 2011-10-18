@@ -2,7 +2,7 @@ Changes
 MANIFEST
 Makefile.PL
 README
-lib/Acme/CPANAuthors/Portuguese.pm
+lib/Acme/CPANAuthors/Spanish.pm
 t/00-load.t
 t/pod-coverage.t
 t/pod.t
