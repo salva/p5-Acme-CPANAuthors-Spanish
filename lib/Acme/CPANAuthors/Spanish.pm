@@ -13,6 +13,7 @@ use Acme::CPANAuthors::Register ( CASIANO   => 'Casiano Rodríguez-León',
                                   NES       => 'Enrique F. Castañón',
                                   NITO      => 'Nito Martínez',
                                   SALVA     => 'Salvador Fandiño',
+                                  RODRIGO   => 'Rodrigo de Oliveira González',
                                 );
 
 __END__
