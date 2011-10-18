@@ -3,9 +3,10 @@ package Acme::CPANAuthors::Spanish;
 use warnings;
 use strict;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
-use Acme::CPANAuthors::Register ( CASIANO   => 'Casiano Rodríguez-León',
+use Acme::CPANAuthors::Register ( ALEXM     => 'Alex Muntada',
+                                  CASIANO   => 'Casiano Rodríguez-León',
                                   DIEGOK    => 'Diego Kuperman',
                                   ENELL     => 'Enrique Nell',
                                   EXPLORER  => 'Joaquín Ferrero',
