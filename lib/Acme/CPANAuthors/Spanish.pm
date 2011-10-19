@@ -3,20 +3,35 @@ package Acme::CPANAuthors::Spanish;
 use warnings;
 use strict;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 use Acme::CPANAuthors::Register ( ALEXM     => 'Alex Muntada',
+                                  AMONTERO  => 'Alberto Montero Asenjo',
+                                  BRUNODIAZ => 'Bruno Díaz Brière',
+                                  BREQUESEN => 'Bernat Requesens',
+                                  CARLOSFB  => 'Carlos Fuentes',
                                   CASIANO   => 'Casiano Rodríguez-León',
                                   DIEGOK    => 'Diego Kuperman',
+                                  ECASTILLA => 'Enrique Castilla Contreras',
+                                  EDUSEGRE  => 'Eduardo Segredo González',
+                                  EJDRS     => 'Evilio José del Río Silván',
                                   ENELL     => 'Enrique Nell',
                                   EXPLORER  => 'Joaquín Ferrero',
+                                  FMERGES   => 'Florián Merges',
                                   FXN       => 'Xavier Noria',
+                                  JFRAIRE   => 'Julio Fraire Domínguez',
+                                  JLMARTIN  => 'José Luis Martínez Torres',
                                   JMERELO   => 'J. J. Merelo-Guervós',
+                                  JOSERODR  => 'José A. Rodríguez',
+                                  JREY      => 'José Rey',
+                                  MRUIZ     => 'Míquel Ruiz Martín',
                                   NES       => 'Enrique F. Castañón',
                                   NITO      => 'Nito Martínez',
                                   PECO      => 'Juan José San Martín',
                                   RODRIGO   => 'Rodrigo de Oliveira González',
-                                  SALVA     => 'Salvador Fandiño',
+                                  RPORRES   => 'Rafael Porres Molina',
+                                  SALVA     => 'Salvador Fandiño García',
+                                  XCALBET   => 'Xavier Calbet',
                                 );
 
 __END__
