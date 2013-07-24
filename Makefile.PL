@@ -9,4 +9,12 @@ WriteMakefile( NAME                => 'Acme::CPANAuthors::Spanish',
                PREREQ_PM           => { 'Test::More' => 0,
                                         'Acme::CPANAuthors::Register' => 0, },
                ($ExtUtils::MakeMaker::VERSION >= 6.3002 ? ('LICENSE'=> 'public domain') : ()),
+               ($ExtUtils::MakeMaker::VERSION < 6.46 ? () :
+                 ( META_MERGE => {
+                       resources => {
+                           repository => 'https://github.com/salva/p5-Acme-CPANAuthors-Spanish',
+                       },
+                   },
+                 ),
+               ),
              );
