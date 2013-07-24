@@ -2,6 +2,7 @@ package Acme::CPANAuthors::Spanish;
 
 use warnings;
 use strict;
+use utf8;
 
 our $VERSION = '0.05';
 
