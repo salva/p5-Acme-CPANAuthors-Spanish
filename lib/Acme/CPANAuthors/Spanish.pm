@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use utf8;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 use Acme::CPANAuthors::Register ( ALEXM     => 'Alex Muntada',
                                   AMONTERO  => 'Alberto Montero Asenjo',
@@ -20,6 +20,7 @@ use Acme::CPANAuthors::Register ( ALEXM     => 'Alex Muntada',
                                   EXPLORER  => 'Joaquín Ferrero',
                                   FMERGES   => 'Florián Merges',
                                   FXN       => 'Xavier Noria',
+                                  JAVIER    => 'Javier Arturo Rodríguez Gutiérrez',
                                   JFRAIRE   => 'Julio Fraire Domínguez',
                                   JLMARTIN  => 'José Luis Martínez Torres',
                                   JMERELO   => 'J. J. Merelo-Guervós',
